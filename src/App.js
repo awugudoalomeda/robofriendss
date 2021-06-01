@@ -17,7 +17,7 @@ function App() {
         >
           Learn React
         </a>
-        <p>Enjoy a drink while also learning it</p>
+        <p>Enjoy a drink, while it last</p>
       </header>
     </div>
   );
