@@ -4,6 +4,10 @@ import Card from './Card';
 
 
 const CardList = ({robots})  => {
+
+    // if (true){ //used to test error boundary code.
+    //     throw new Error ('Noooooooo');
+    // } 
     return (
         <div className='tc'>
         {
